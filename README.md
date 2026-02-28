@@ -11,12 +11,13 @@ To build a safe penetration testing lab using Kali Linux and Metasploitable to p
 - Host-Only Network Configuration
 
 ## Network Configuration
-![Kali and metasploit IP](screenshots/kaliandmetasploitable.png)
+![Kali and metasploit IP](screenshots/kali%20and%20metasploit.png)
 
 ## Scanning Phase
 Command used: nmap -sV -A 192.168.33.5
 
-![Nmap Scan](screenshots/nmapcommand.png,Aggressivescan.png)
+![Nmap Scan](screenshots/nmap%20command.png)
+![aggresive scan](screenshots/Aggressive%20scan.png)
 
 ## What I Learned
 - Port scanning and service detection
